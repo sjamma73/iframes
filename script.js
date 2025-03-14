@@ -1,6 +1,6 @@
 const pages = [
-    { name: "Project 1", url: "Task_1.html"},
-    { name: "Project 2", url: "Task_2.html" },
+    { name: "Project 1", url: "works/task1/Task_1.html"},
+    { name: "Project 2", url: "works/task2/Task_2.html" },
     { name: "Project 3", url: "Task_3.html" },
     { name: "Project 4", url: "Task_1.html" }
   ];
